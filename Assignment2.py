@@ -1,3 +1,4 @@
+import pandas as pd
 # Created two Pandas series
 FirstSeries = pd.Series([10,15,20,25,30,35])
 SecondSeries = pd.Series([2,4,6,8,10,12])
